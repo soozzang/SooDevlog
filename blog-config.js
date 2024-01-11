@@ -2,7 +2,7 @@ module.exports = {
   title: "SooDevlog",
   description: "개발일지",
   author: "Soohyun",
-  siteUrl: "https://soodevlog.site",
+  siteUrl: "https://soodevlog.site/",
   links: {
     github: "https://github.com/soozzang",
     linkedIn: "https://linkedin.com",
