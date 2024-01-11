@@ -60,7 +60,7 @@ export const dark = {
     activatedBorder: GRAY3,
     background: GRAY8,
     icon: GRAY5,
-    divider: GRAY8,
+    divider: "rgb(54 54 54)",
     headerBackground: "rgb(33,37,41,1.1)",
     headerShadow: "rgba(150, 150, 150, 0.08)",
     inlineCodeBackground: GRAY8,
