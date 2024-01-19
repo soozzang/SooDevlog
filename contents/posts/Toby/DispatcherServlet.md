@@ -4,7 +4,7 @@ date: 2024-01-19
 tags:
   - Spring
   - DispatcherServlet
-series: "독립 실행이 가능한 애플리케이션 만들기"
+series: "독립 실행 가능한 애플리케이션 만들기"
 ---
 우리는 지금 프론트 컨트롤러라는 서블릿을 만든 상태이다. 목표는 서블릿 컨테이너를 관리하지 않는 Containerless의 형태로 구축하고 싶은 것이다.
 

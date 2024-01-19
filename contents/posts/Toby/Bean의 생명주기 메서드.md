@@ -3,7 +3,7 @@ title: "SpringBootApplication의 구조"
 date: 2024-01-19
 tags:
   - Spring
-series: "독립 실행이 가능한 애플리케이션 만들기"
+series: "독립 실행 가능한 애플리케이션 만들기"
 ---
 (지금까지의 코드)
 ```java
