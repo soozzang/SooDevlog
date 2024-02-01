@@ -2,6 +2,7 @@
 title: "스프링 컨테이너 도입 & Dependency Injection"
 date: 2024-01-15
 tags:
+  - 독립 실행 가능한 애플리케이션 제작
   - Spring
   - DI
 series: "독립 실행 가능한 애플리케이션 만들기"

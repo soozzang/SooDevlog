@@ -2,6 +2,7 @@
 title: "SpringBoot 없이 Servlet을 이용한 Containerless 아키텍쳐 구축 시작하기"
 date: 2024-01-13
 tags:
+  - 독립 실행 가능한 애플리케이션 제작
   - Java
   - Spring
   - Containerless

@@ -2,6 +2,7 @@
 title: "SpringBootApplication의 구조"
 date: 2024-01-19
 tags:
+  - 독립 실행 가능한 애플리케이션 제작
   - Spring
 series: "독립 실행 가능한 애플리케이션 만들기"
 ---
